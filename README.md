@@ -1,6 +1,6 @@
 <div align= "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/></div>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=80&pause=1000&color=58A6FF&random=false&width=800&height=80&lines=Welcome+my+github+profile!" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=80&pause=1000&color=58A6FF&random=false&width=800&height=100&lines=Welcome+my+github+profile!" alt="Typing SVG" /></a>
      <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjookite%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     <div align= "center"> 
